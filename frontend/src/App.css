@@ -1,0 +1,46 @@
+/* font-family: 'Open Sans', sans-serif; */
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+main {
+  padding: 30px;
+}
+
+h1 {
+  color: midnightblue;
+  display: inline-block;
+  font-size: 26px;
+  font-style: italic;
+  font-weight: bold;
+  position: relative;
+}
+
+h2 {
+  color: midnightblue;
+  font-style: italic;
+  font-size: 22px;
+}
+
+h6 {
+  display: inline-block;
+  color: white;
+  vertical-align: bottom;
+  font-style: italic;
+}
+
+.holder {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.holder2 {
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+}
